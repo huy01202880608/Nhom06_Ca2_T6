@@ -40,6 +40,10 @@
 - Giao diện người dùng: HTML, CSS, JavaScript
 
 ## Thành Viên
-- Đoàn Nguyễn Gia Huy 21DH113657 (Team Leader)
-- Dương Quốc Huy 21DH113655 (Member)
-- Đàm Quang Trung 21DH112014 (Member)
+| Attempt | #1    | #2    |
+| :-----: | :---: | :---: |
+| DEV| Dương Quốc Huy   | 21DH113655   |
+| ADMIN| Đoàn Nguyễn Gia Huy   | 21DH113657   |
+| DEV| Đàm Quang Trung  | 21DH112014    |
+
+
