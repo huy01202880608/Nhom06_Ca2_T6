@@ -3,9 +3,7 @@
 - Dự án Bán Vé Máy Bay là một ứng dụng web được phát triển bằng ngôn ngữ lập trình C# và sử dụng kiến thức thiết kế MVC (Model-View-Controller). Dự án này nhằm mục đích cung cấp một nền tảng trực tuyến giúp người dùng dễ dàng tìm hiểu, chọn mua và đặt vé máy bay.
 - Dự án Bán Vé Máy Bay sẽ mang lại lợi ích cho cả người dùng và doanh nghiệp hoặc hãng hàng không. Người dùng sẽ có trải nghiệm mua vé thuận tiện và nhanh chóng trực tuyến, trong khi doanh nghiệp có cơ hội quản lý và tối ưu hóa việc bán vé máy bay, theo dõi lịch sử giao dịch và tương tác dễ dàng với khách hàng.
 ### Một vài hình ảnh về dự án
-- Thanh menu tiện ích
 
-![394386280_7070338722989328_6242253677581722714_n](https://github.com/huy01202880608/Webbanvemaybay/assets/145096900/2045f4dc-6c6c-452e-95ad-20f3743a60da)
 
 - Chức năng tìm kiếm hữu ích
 
@@ -15,9 +13,7 @@
 
 ![393314011_647515814165731_284371412844499853_n](https://github.com/huy01202880608/Webbanvemaybay/assets/145096900/d56fb658-4d3f-4606-9fd4-f4a599ab8291)
 
-- Giới thiệu các gói ưu dãi
 
-![393976581_286095371010940_6409143586645066008_n](https://github.com/huy01202880608/Webbanvemaybay/assets/145096900/1bb8930f-a8b9-4119-8815-4e4faea03b82)
 
 
 ## Tính năng chính
